@@ -1,4 +1,3 @@
-import React from 'react';
 import Hero from '../components/Hero';
 import FeaturedDishes from '../components/FeaturedDishes';
 import { Link } from 'react-router-dom';
