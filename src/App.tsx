@@ -35,3 +35,19 @@ function App() {
 }
 
 export default App;
+
+// Menu.tsx
+import React from 'react';
+
+const Menu = () => {
+  return (
+    <div>
+      <h1>Menu Page</h1>
+      {/* Your menu content */}
+    </div>
+  );
+};
+
+export default Menu;
+
+<Link to="/menu">View Full Menu</Link>
